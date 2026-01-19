@@ -1,0 +1,8 @@
+# ZZ correlator on pure states
+# Date: 2026-01-19T12:40:31.063
+# Columns: N, Explicit_time_ms, Bitwise_time_ms
+4	2.869794e-02	6.690900e-04
+6	2.029661e-01	7.713900e-04
+8	2.706326e+00	1.220670e-03
+10	5.986888e+01	3.143900e-03
+12	1.140328e+03	6.594300e-03

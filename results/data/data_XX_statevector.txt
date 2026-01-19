@@ -1,0 +1,8 @@
+# XX correlator on pure states
+# Date: 2026-01-19T12:40:31.062
+# Columns: N, Explicit_time_ms, Bitwise_time_ms
+4	2.953841e-02	8.027100e-04
+6	2.202807e+01	9.129500e-04
+8	2.967984e+01	1.723930e-03
+10	4.609330e+02	5.817000e-03
+12	1.680264e+03	1.797370e-02

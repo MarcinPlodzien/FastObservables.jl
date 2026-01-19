@@ -1,0 +1,8 @@
+# YY correlator on pure states
+# Date: 2026-01-19T12:40:31.063
+# Columns: N, Explicit_time_ms, Bitwise_time_ms
+4	3.085864e-02	7.362000e-04
+6	2.017659e-01	8.150800e-04
+8	3.480196e+00	8.285300e-04
+10	5.806730e+01	4.844800e-03
+12	1.162542e+03	1.467040e-02

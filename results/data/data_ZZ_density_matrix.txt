@@ -1,0 +1,7 @@
+# ZZ correlator on density matrices
+# Date: 2026-01-19T12:40:31.071
+# Columns: N, Explicit_time_ms, Bitwise_time_ms
+4	2.826547e-02	7.710200e-04
+6	1.687042e-01	9.464000e-04
+8	2.854175e+00	2.590900e-03
+10	4.924240e+01	5.377100e-03

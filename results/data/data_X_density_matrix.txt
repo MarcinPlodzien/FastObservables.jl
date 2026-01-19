@@ -1,0 +1,7 @@
+# X observable on density matrices
+# Date: 2026-01-19T12:40:31.064
+# Columns: N, Explicit_time_ms, Bitwise_time_ms
+4	5.392470e-03	6.443600e-04
+6	6.701026e-01	7.652300e-04
+8	6.993862e+00	1.781800e-03
+10	7.098578e+00	2.604900e-03

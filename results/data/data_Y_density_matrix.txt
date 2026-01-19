@@ -1,0 +1,7 @@
+# Y observable on density matrices
+# Date: 2026-01-19T12:40:31.064
+# Columns: N, Explicit_time_ms, Bitwise_time_ms
+4	4.855590e-03	6.041700e-04
+6	9.693480e-03	7.904600e-04
+8	2.911670e-02	2.604600e-03
+10	8.756540e-02	2.285200e-03

@@ -1,0 +1,9 @@
+# Partial trace: trace out 1 qubit, pure states
+# Date: 2026-01-19T12:41:43.339
+# Columns: N, Explicit_time_ms, Bitwise_time_ms
+4	5.953850e-03	3.318150e-03
+6	3.792904e+01	1.505465e-02
+8	4.704307e+01	1.844329e-01
+10	6.317075e+01	5.626626e+00
+12	2.970286e+02	1.126705e+02
+14	4.064667e+02	2.512708e+03

@@ -1,0 +1,7 @@
+# YY correlator on density matrices
+# Date: 2026-01-19T12:40:31.070
+# Columns: N, Explicit_time_ms, Bitwise_time_ms
+4	2.839681e-02	8.599200e-04
+6	1.638259e-01	8.945800e-04
+8	4.062001e+00	2.156600e-03
+10	5.030467e+01	4.492300e-03

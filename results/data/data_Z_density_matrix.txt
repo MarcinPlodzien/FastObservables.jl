@@ -1,0 +1,7 @@
+# Z observable on density matrices
+# Date: 2026-01-19T12:40:31.064
+# Columns: N, Explicit_time_ms, Bitwise_time_ms
+4	4.652930e-03	5.926000e-04
+6	9.587320e-03	7.078300e-04
+8	3.191510e-02	1.728200e-03
+10	8.402670e-02	4.480200e-03
