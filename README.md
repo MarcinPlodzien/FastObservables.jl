@@ -946,16 +946,13 @@ This project is provided for educational and research purposes. Feel free to use
 If you use this code in your research, please cite:
 
 ```bibtex
-@software{fastobservables2026,
+@software{FastObservables.jl,
   author = {Płodzień, Marcin},
   title = {FastObservables.jl: Ultra-Fast Bitwise Quantum Observable Calculations},
   year = {2026},
-  url = {https://github.com/your-repo/FastObservables}
+  url = {https://github.com/MarcinPlodzien/FastObservables.jl}
 }
 ```
 
 ---
 
-## Acknowledgments
-
-This work was developed as part of research on Quantum Reservoir Computing (QRC) and multi-rail spin systems, where fast observable measurement is critical for large-scale simulations.
